@@ -3,7 +3,7 @@
 
 
 Introduction:
-This is a simple form made through html and css which will send information filled to our email
+This is a simple form made through html and css and php which will send information filled to our email
 Based on Topic E-administration
 
 Intro of the project:

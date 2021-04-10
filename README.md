@@ -18,8 +18,13 @@ Contributors:
 
 # Team-LEO-Hack36-2021
 TEAM MEMBERS
+
 Prem Kishor
+
 Aman Omkar
+
 Himanshu Mishra
+
 Nilesh Malav
+
 ![image](https://user-images.githubusercontent.com/76725762/114281116-2eedc280-9a5a-11eb-8eee-250b653b67e2.png)

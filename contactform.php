@@ -1,3 +1,4 @@
+<html><body>
 <?php
 $fname = $_Post['fname'];
 $lname = $_Post['lname'];
@@ -30,3 +31,6 @@ $email_body =" name: $fname $lname \n".
             $headers = "From: $Email\r\n";
             mail($to,$email_subject,$email_body,$headers);
             header("Location: index.html");
+echo "Thank you";
+?>
+</body></html>
